@@ -142,3 +142,4 @@ zstandard==0.23.0
 gunicorn
 
 Flask
+flask-cors
